@@ -27,3 +27,51 @@ figure {
   width: 50%;
   margin: 40px auto;
 }
+
+
+
+figure.film-poster {
+    width: 40%;
+}
+
+.action-watch-later {
+    color: red;
+    position: absolute;
+    top: 18px;
+    left: 204px;
+}
+
+article.film {
+    position: relative;
+}
+
+.film-details {
+  position: absolute;
+  right: 14px;
+  top: 18px;
+  width: 50%;
+  height: 100%;
+  }
+
+.action-like {
+    color: red;
+    position: absolute;
+    bottom: 27px;
+    left: 78%;
+}
+
+p.film-description {
+    padding-right: 16px;
+}
+
+article {
+    border: 1px grey solid;
+    padding: 38px;
+}
+
+.action-watch-later {
+    position: absolute;
+    top: 47px;
+    left: 36%;
+    color: red;
+}
